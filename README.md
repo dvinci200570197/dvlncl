@@ -1,5 +1,5 @@
 <p align="center">
-🔗 Let's Connect 🔗
+📎 Let's Connect 📎
 </p>
 <p align="center">
 
