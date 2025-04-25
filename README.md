@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -42,9 +42,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sophos-003366?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SentinelOne-6C47FF?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Datto-2CAAE1?&style=for-the-badge&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
@@ -59,13 +63,27 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
-<div>
-  <img src="https://img.shields.io/badge/-AT15:_Sophos_Central_Endpoint_Protection_Certified_Architect_v5.0-ED1C24?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-1Z0-997:_Oracle_Cloud_Infrastructure_2019_Architect-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VCP-DCV:_VMware_Certified_Professional_-_Data_Center_Virtualization-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-  <img src="https://img.shields.io/badge/-200-125:_Cisco_Certified_Network_Associate_Routing_and_Switching-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
-
+ <div class="bg-white p-6 rounded-lg shadow-lg max-w-2xl w-full">
+        <h2 class="text-2xl font-bold text-gray-800 mb-4 text-center">Certifications</h2>
+        <div class="grid grid-cols-1 gap-4">
+            <div class="flex items-center space-x-4">
+                <img src="https://img.shields.io/badge/Sophos_Central_Architect_v5.0-FF0000?style=for-the-badge" alt="Sophos Certification" class="h-8">
+                <span class="text-gray-700"></span>
+            </div>
+            <div class="flex items-center space-x-4">
+                <img src="https://img.shields.io/badge/Oracle_Cloud_Architect-007ACC?style=for-the-badge" alt="Oracle Certification" class="h-8">
+                <span class="text-gray-700"></span>
+            </div>
+            <div class="flex items-center space-x-4">
+                <img src="https://img.shields.io/badge/VMware_VCP_DCV-4D4D4D?style=for-the-badge" alt="VMware Certification" class="h-8">
+                <span class="text-gray-700"></span>
+            </div>
+            <div class="flex items-center space-x-4">
+                <img src="https://img.shields.io/badge/Cisco_CCNA-000080?style=for-the-badge" alt="Cisco Certification" class="h-8">
+                <span class="text-gray-700"></span>
+            </div>
+        </div>
+    </div>
 
 
 
