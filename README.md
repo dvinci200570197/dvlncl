@@ -48,20 +48,28 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sumo%20Logic-4000BF?&style=for-the-badge&logo=Sumo%20Logic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PRTG%20Network%20Monitor-0094D8?&style=for-the-badge&logo=Paessler&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arkime-800080?&style=for-the-badge&logoColor=white" />
 </div>
 
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AT15:_Sophos_Central_Endpoint_Protection_Certified_Architect_v5.0-ED1C24?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-1Z0-997:_Oracle_Cloud_Infrastructure_2019_Architect-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VCP-DCV:_VMware_Certified_Professional_-_Data_Center_Virtualization-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+  <img src="https://img.shields.io/badge/-200-125:_Cisco_Certified_Network_Associate_Routing_and_Switching-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
+
+
+
+
+
 
 ## Projects
 - <a href="https://github.com/dvinci200570197/Detection-Lab/tree/main">Detection Lab</a>
