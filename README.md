@@ -11,12 +11,13 @@
   </a>
 </p>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<h3 align="center">🚀 I Love Building Labs!</h3>
+<p align="center">
+  I'm passionate about breaking, fixing, deploying, automating, and monitoring things! <br>
+  Whether it's <strong>networks</strong>, <strong>cloud environments</strong>, <strong>security setups</strong>, or <strong>fun experiments</strong> — I'm always hands-on. <br><br>
+  Here's a snapshot of my journey so far 🚀👇
+</p>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -62,7 +63,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
-## Certifications
  <div class="bg-white p-6 rounded-lg shadow-lg max-w-2xl w-full">
         <h2 class="text-2xl font-bold text-gray-800 mb-4 text-center">Certifications</h2>
         <div class="grid grid-cols-1 gap-4">
